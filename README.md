@@ -34,7 +34,7 @@ A full-stack Fake News Detection application built using Java (Spring Boot) and 
 ![UI](screenshots/ui.png)
 
 ### Prediction Result
-![Result](screenshots/result.png)
+![Result](screenshots/ui.png)
 
 ## 📂 Note
 Dataset files are excluded from repository due to size.
