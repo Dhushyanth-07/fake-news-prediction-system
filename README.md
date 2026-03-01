@@ -28,6 +28,13 @@ A full-stack Fake News Detection application built using Java (Spring Boot) and 
 1. Run `FakeNewsBackendApplication.java`
 2. Open `frontend/index.html` in browser
 3. Enter news and click Predict
+## 📸 Screenshots
+
+### Application UI
+![UI](screenshots/ui.png)
+
+### Prediction Result
+![Result](screenshots/result.png)
 
 ## 📂 Note
 Dataset files are excluded from repository due to size.
